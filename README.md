@@ -11,7 +11,7 @@
 
 ### Bronx:
 
-Bronx-Lebanon Hospital Center<br>
+Bronx-Lebanon Hospital Center (BronxCare)<br>
 Montefiore Medical Center<br>
 Lincoln Medical & Mental Health Center<br>
 Jacobi Medical Center<br>
@@ -43,7 +43,17 @@ North Central Bronx Hospital<br>
 
 MediSysHealthNetwork.ipynb - data cleaning for the MediSys Health Network, which comprises Flushing Hospital and Jamaica Hospital
 
-Montefiore.ipynb - data cleaning for Montefiore Medical Center
+montefiore.ipynb - data cleaning for Montefiore Medical Center
+
+bronxcare.ipynb - data cleaning for Bronx-Lebanon
+
+presby.ipynb - data cleaning for New York-Presbyterian/Queens
+
+hospitalSummary.ipynb - some work I did when I had aggregated all of the data
+
+*note - some of the graphs and work I did was in excel, which I haven't included here, so this doesn't represent the entire project
+
+
 
 
 
