@@ -27,5 +27,24 @@ Queens Hospital Center
 
 ## Description of Repository Files:
 
-FinalProduct.pdf - final pdf file with write-up that I submitted
-medicare.ipynb - getting the data that I wanted from the "Medicare Provider Utilization and Payment Data: Inpatient" dataset
+FinalProduct.pdf - final write-up that I submitted <br>
+
+FinalCombinedDataset.csv - final dataset that I submitted <br>
+
+medicare.ipynb - data cleaning from the "Medicare Provider Utilization and Payment Data: Inpatient" dataset <br>
+
+NycHealh+.ipynb - data cleaning for the NYC Health+ Hospital System, which is the system that comprised the following 5 hospitals I analyzed:
+<br>
+Queens Hospital Center<br>
+Elmhurst Hospital Center<br>
+Jacobi Medical Center<br>
+Lincoln Medical & Mental Health Center<br>
+North Central Bronx Hospital<br>
+
+MediSysHealthNetwork.ipynb - data cleaning for the MediSys Health Network, which comprises Flushing Hospital and Jamaica Hospital
+
+Montefiore.ipynb - data cleaning for Montefiore Medical Center
+
+
+
+
