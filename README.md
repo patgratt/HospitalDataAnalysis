@@ -11,16 +11,16 @@
 
 ### Bronx:
 
-Bronx-Lebanon Hospital Center <br>
-Montefiore Medical Center
-Lincoln Medical & Mental Health Center
-Jacobi Medical Center
+Bronx-Lebanon Hospital Center<br>
+Montefiore Medical Center<br>
+Lincoln Medical & Mental Health Center<br>
+Jacobi Medical Center<br>
 North Central Bronx Hospital
 
 ### Queens:
 
-Jamaica Hospital Medical Center
-New York-Presbyterian/Queens
-Elmhurst Hospital Center
-Flushing Hospital Medical Center
+Jamaica Hospital Medical Center<br>
+New York-Presbyterian/Queens<br>
+Elmhurst Hospital Center<br>
+Flushing Hospital Medical Center<br>
 Queens Hospital Center
