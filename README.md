@@ -5,7 +5,7 @@
   
 ### Hospital Transparency Law
 
-  Effective 01/01/2021, the Centers for Medicare & Medicaid Services (CMS) established requirements for hospitals in the US to make their standard charges publically accessibly. To read more about this initiative, visit https://www.cms.gov/hospital-price-transparency/hospitals#key-provisions.
+  Effective 01/01/2021, the Centers for Medicare & Medicaid Services (CMS) established requirements for hospitals in the US to make their standard charges publically accessible. To read more about this initiative, visit https://www.cms.gov/hospital-price-transparency/hospitals#key-provisions.
   
 ## Hospitals Analyzed by Market:
 
@@ -24,3 +24,7 @@ New York-Presbyterian/Queens<br>
 Elmhurst Hospital Center<br>
 Flushing Hospital Medical Center<br>
 Queens Hospital Center
+
+## Description of Repository Files:
+
+medicare.ipynb - medicare data on hospitals
