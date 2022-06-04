@@ -27,4 +27,5 @@ Queens Hospital Center
 
 ## Description of Repository Files:
 
-medicare.ipynb - medicare data on hospitals
+FinalProduct.pdf - final pdf file with write-up that I submitted
+medicare.ipynb - getting the data that I wanted from the "Medicare Provider Utilization and Payment Data: Inpatient" dataset
