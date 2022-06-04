@@ -1,4 +1,4 @@
-# Econ372finalProject
+# Patrick Burke - Econ 372 Final Project
 
 ## Overview:
   This is the code to my final project for Econ372 (Health Care Markets) at Emory University. The project involved collecting data regarding hospital gross charges, negotiated payments, and medicare payments for selected procedures and comparing them between markets.
